@@ -67,3 +67,7 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+# Authetication libraries
+gem 'devise'
+gem 'omniauth-google-oauth2'
